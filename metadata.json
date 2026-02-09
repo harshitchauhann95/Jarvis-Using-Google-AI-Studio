@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS ",
+  "description": "A highly advanced, bilingual AI assistant interface inspired by Iron Man's JARVIS, featuring a futuristic UI and intelligent reasoning capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

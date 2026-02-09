@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "short_name": "JARVIS",
+  "name": "JARVIS AI System",
+  "description": "Advanced AI Interface",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6134/6134346.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/6134/6134346.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "orientation": "portrait",
+  "categories": ["productivity", "utilities", "ai"]
+}
